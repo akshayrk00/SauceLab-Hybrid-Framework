@@ -98,3 +98,48 @@
 2026-02-27 11:04:13 [TestNG-tests-1] INFO  LoginTest - login button is clicked
 2026-02-27 11:04:45 [TestNG-tests-1] INFO  BaseTest - Closing browser
 2026-02-27 11:04:45 [TestNG-tests-1] INFO  BaseTest - ===== Test Finished =====
+2026-02-27 13:29:37 [main] INFO  Utils - [TestNG] Running:
+  D:\rest-assured-framework\SauceLab-Hybrid-Framework\testng.xml
+
+2026-02-27 13:29:37 [TestNG-tests-1] INFO  BaseTest - ===== Test Started =====
+2026-02-27 13:29:37 [TestNG-tests-1] INFO  BrowserFactory - Initializing browser...
+2026-02-27 13:29:37 [TestNG-tests-1] INFO  BrowserFactory - Launching Chrome browser
+2026-02-27 13:29:39 [TestNG-tests-1] INFO  WebDriverManager - Using chromedriver 145.0.7632.117 (resolved driver for Chrome 145)
+2026-02-27 13:29:39 [TestNG-tests-1] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akshay\.cache\selenium\chromedriver\win64\145.0.7632.117\chromedriver.exe
+2026-02-27 13:29:41 [TestNG-tests-1] INFO  BrowserFactory - Browser launched successfully
+2026-02-27 13:29:41 [TestNG-tests-1] INFO  BaseTest - Navigated to: https://www.saucedemo.com/
+2026-02-27 13:29:42 [TestNG-tests-1] INFO  LoginTest - Username is entered: standard_user
+2026-02-27 13:29:43 [TestNG-tests-1] INFO  LoginTest - password is entered: standard_user
+2026-02-27 13:29:43 [TestNG-tests-1] INFO  LoginTest - login button is clicked
+2026-02-27 13:30:15 [TestNG-tests-1] INFO  BaseTest - Closing browser
+2026-02-27 13:30:15 [TestNG-tests-1] INFO  BaseTest - ===== Test Finished =====
+2026-02-27 13:30:45 [main] INFO  Utils - [TestNG] Running:
+  D:\rest-assured-framework\SauceLab-Hybrid-Framework\testng.xml
+
+2026-02-27 13:30:45 [TestNG-tests-1] INFO  BaseTest - ===== Test Started =====
+2026-02-27 13:30:45 [TestNG-tests-1] INFO  BrowserFactory - Initializing browser...
+2026-02-27 13:30:45 [TestNG-tests-1] INFO  BrowserFactory - Launching Chrome browser
+2026-02-27 13:30:45 [TestNG-tests-1] INFO  WebDriverManager - Using chromedriver 145.0.7632.117 (resolved driver for Chrome 145)
+2026-02-27 13:30:45 [TestNG-tests-1] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akshay\.cache\selenium\chromedriver\win64\145.0.7632.117\chromedriver.exe
+2026-02-27 13:30:46 [TestNG-tests-1] INFO  BrowserFactory - Browser launched successfully
+2026-02-27 13:30:47 [TestNG-tests-1] INFO  BaseTest - Navigated to: https://www.saucedemo.com/
+2026-02-27 13:30:47 [TestNG-tests-1] INFO  LoginTest - Username is entered: standard_user
+2026-02-27 13:30:47 [TestNG-tests-1] INFO  LoginTest - password is entered: standard_user
+2026-02-27 13:30:48 [TestNG-tests-1] INFO  LoginTest - login button is clicked
+2026-02-27 13:31:20 [TestNG-tests-1] INFO  BaseTest - Closing browser
+2026-02-27 13:31:20 [TestNG-tests-1] INFO  BaseTest - ===== Test Finished =====
+2026-02-27 13:35:22 [main] INFO  Utils - [TestNG] Running:
+  D:\rest-assured-framework\SauceLab-Hybrid-Framework\testng.xml
+
+2026-02-27 13:35:22 [TestNG-tests-1] INFO  BaseTest - ===== Test Started =====
+2026-02-27 13:35:22 [TestNG-tests-1] INFO  BrowserFactory - Initializing browser...
+2026-02-27 13:35:22 [TestNG-tests-1] INFO  BrowserFactory - Launching Chrome browser
+2026-02-27 13:35:22 [TestNG-tests-1] INFO  WebDriverManager - Using chromedriver 145.0.7632.117 (resolved driver for Chrome 145)
+2026-02-27 13:35:22 [TestNG-tests-1] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akshay\.cache\selenium\chromedriver\win64\145.0.7632.117\chromedriver.exe
+2026-02-27 13:35:23 [TestNG-tests-1] INFO  BrowserFactory - Browser launched successfully
+2026-02-27 13:35:24 [TestNG-tests-1] INFO  BaseTest - Navigated to: https://www.saucedemo.com/
+2026-02-27 13:35:24 [TestNG-tests-1] INFO  LoginTest - Username is entered: standard_user
+2026-02-27 13:35:25 [TestNG-tests-1] INFO  LoginTest - password is entered: secret_sauce
+2026-02-27 13:35:25 [TestNG-tests-1] INFO  LoginTest - login button is clicked
+2026-02-27 13:35:28 [TestNG-tests-1] INFO  BaseTest - Closing browser
+2026-02-27 13:35:28 [TestNG-tests-1] INFO  BaseTest - ===== Test Finished =====

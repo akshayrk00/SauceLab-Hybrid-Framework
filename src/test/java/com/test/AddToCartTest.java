@@ -22,7 +22,7 @@ public class AddToCartTest extends BaseTest {
 
         LoginPage loginPage = new LoginPage();
         AddToCartPage addToCartPage = new AddToCartPage();
-        loginPage.login(username, username);
+        loginPage.login(username, password);
         Thread.sleep(2000);
         Assert.assertTrue(loginPage.isLogoDisplayed());
 
