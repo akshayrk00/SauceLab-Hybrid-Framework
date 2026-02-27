@@ -1,0 +1,187 @@
+2026-02-26 09:08:57 [main] INFO  Utils - [TestNG] Running:
+  D:\rest-assured-framework\SauceLab-Hybrid-Framework\testng.xml
+
+2026-02-26 09:08:57 [TestNG-tests-1] INFO  BaseTest - ===== Test Started =====
+2026-02-26 09:08:57 [TestNG-tests-1] INFO  BrowserFactory - Initializing browser...
+2026-02-26 09:08:57 [TestNG-tests-1] INFO  BrowserFactory - Launching Chrome browser
+2026-02-26 09:08:59 [TestNG-tests-1] INFO  WebDriverManager - Using chromedriver 145.0.7632.117 (resolved driver for Chrome 145)
+2026-02-26 09:08:59 [TestNG-tests-1] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akshay\.cache\selenium\chromedriver\win64\145.0.7632.117\chromedriver.exe
+2026-02-26 09:09:00 [TestNG-tests-1] INFO  BrowserFactory - Browser launched successfully
+2026-02-26 09:09:01 [TestNG-tests-1] INFO  BaseTest - Navigated to: https://www.saucedemo.com/
+2026-02-26 09:09:02 [TestNG-tests-1] INFO  LoginTest - Username is entered: standard_user
+2026-02-26 09:09:02 [TestNG-tests-1] INFO  LoginTest - password is entered: secret_sauce
+2026-02-26 09:09:02 [TestNG-tests-1] INFO  LoginTest - login button is clicked
+2026-02-26 09:09:25 [TestNG-tests-1] INFO  BaseTest - Closing browser
+2026-02-26 09:09:25 [TestNG-tests-1] INFO  BaseTest - ===== Test Finished =====
+2026-02-26 09:09:41 [main] INFO  Utils - [TestNG] Running:
+  D:\rest-assured-framework\SauceLab-Hybrid-Framework\testng.xml
+
+2026-02-26 09:09:41 [TestNG-tests-1] INFO  BaseTest - ===== Test Started =====
+2026-02-26 09:09:41 [TestNG-tests-1] INFO  BrowserFactory - Initializing browser...
+2026-02-26 09:09:41 [TestNG-tests-1] INFO  BrowserFactory - Launching Chrome browser
+2026-02-26 09:09:41 [TestNG-tests-1] INFO  WebDriverManager - Using chromedriver 145.0.7632.117 (resolved driver for Chrome 145)
+2026-02-26 09:09:41 [TestNG-tests-1] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akshay\.cache\selenium\chromedriver\win64\145.0.7632.117\chromedriver.exe
+2026-02-26 09:09:42 [TestNG-tests-1] INFO  BrowserFactory - Browser launched successfully
+2026-02-26 09:09:43 [TestNG-tests-1] INFO  BaseTest - Navigated to: https://www.saucedemo.com/
+2026-02-26 09:09:44 [TestNG-tests-1] INFO  LoginTest - Username is entered: standard_user
+2026-02-26 09:09:44 [TestNG-tests-1] INFO  LoginTest - password is entered: secret_sauce
+2026-02-26 09:09:44 [TestNG-tests-1] INFO  LoginTest - login button is clicked
+2026-02-26 09:09:46 [TestNG-tests-1] INFO  BaseTest - Closing browser
+2026-02-26 09:09:46 [TestNG-tests-1] INFO  BaseTest - ===== Test Finished =====
+2026-02-26 09:10:09 [main] INFO  Utils - [TestNG] Running:
+  D:\rest-assured-framework\SauceLab-Hybrid-Framework\testng.xml
+
+2026-02-26 09:10:09 [TestNG-tests-1] INFO  BaseTest - ===== Test Started =====
+2026-02-26 09:10:09 [TestNG-tests-1] INFO  BrowserFactory - Initializing browser...
+2026-02-26 09:10:09 [TestNG-tests-1] INFO  BrowserFactory - Launching Chrome browser
+2026-02-26 09:10:09 [TestNG-tests-1] INFO  WebDriverManager - Using chromedriver 145.0.7632.117 (resolved driver for Chrome 145)
+2026-02-26 09:10:09 [TestNG-tests-1] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akshay\.cache\selenium\chromedriver\win64\145.0.7632.117\chromedriver.exe
+2026-02-26 09:10:10 [TestNG-tests-1] INFO  BrowserFactory - Browser launched successfully
+2026-02-26 09:10:11 [TestNG-tests-1] INFO  BaseTest - Navigated to: https://www.saucedemo.com/
+2026-02-26 09:10:12 [TestNG-tests-1] INFO  LoginTest - Username is entered: standard_user
+2026-02-26 09:10:12 [TestNG-tests-1] INFO  LoginTest - password is entered: secret_sauce
+2026-02-26 09:10:12 [TestNG-tests-1] INFO  LoginTest - login button is clicked
+2026-02-26 09:10:35 [TestNG-tests-1] INFO  BaseTest - Closing browser
+2026-02-26 09:10:35 [TestNG-tests-1] INFO  BaseTest - ===== Test Finished =====
+2026-02-26 09:13:06 [main] INFO  Utils - [TestNG] Running:
+  D:\rest-assured-framework\SauceLab-Hybrid-Framework\testng.xml
+
+2026-02-26 09:13:06 [TestNG-tests-1] INFO  BaseTest - ===== Test Started =====
+2026-02-26 09:13:06 [TestNG-tests-1] INFO  BrowserFactory - Initializing browser...
+2026-02-26 09:13:06 [TestNG-tests-1] INFO  BrowserFactory - Launching Chrome browser
+2026-02-26 09:13:07 [TestNG-tests-1] INFO  WebDriverManager - Using chromedriver 145.0.7632.117 (resolved driver for Chrome 145)
+2026-02-26 09:13:07 [TestNG-tests-1] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akshay\.cache\selenium\chromedriver\win64\145.0.7632.117\chromedriver.exe
+2026-02-26 09:13:08 [TestNG-tests-1] INFO  BrowserFactory - Browser launched successfully
+2026-02-26 09:13:08 [TestNG-tests-1] INFO  BaseTest - Navigated to: https://www.saucedemo.com/
+2026-02-26 09:13:09 [TestNG-tests-1] INFO  LoginTest - Username is entered: standard_user
+2026-02-26 09:13:09 [TestNG-tests-1] INFO  LoginTest - password is entered: secret_sauce
+2026-02-26 09:13:09 [TestNG-tests-1] INFO  LoginTest - login button is clicked
+2026-02-26 09:13:11 [TestNG-tests-1] INFO  BaseTest - Closing browser
+2026-02-26 09:13:12 [TestNG-tests-1] INFO  BaseTest - ===== Test Finished =====
+2026-02-26 09:14:03 [main] INFO  Utils - [TestNG] Running:
+  D:\rest-assured-framework\SauceLab-Hybrid-Framework\testng.xml
+
+2026-02-26 09:14:03 [TestNG-tests-1] INFO  BaseTest - ===== Test Started =====
+2026-02-26 09:14:03 [TestNG-tests-1] INFO  BrowserFactory - Initializing browser...
+2026-02-26 09:14:03 [TestNG-tests-1] INFO  BrowserFactory - Launching Chrome browser
+2026-02-26 09:14:04 [TestNG-tests-1] INFO  WebDriverManager - Using chromedriver 145.0.7632.117 (resolved driver for Chrome 145)
+2026-02-26 09:14:04 [TestNG-tests-1] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akshay\.cache\selenium\chromedriver\win64\145.0.7632.117\chromedriver.exe
+2026-02-26 09:14:05 [TestNG-tests-1] INFO  BrowserFactory - Browser launched successfully
+2026-02-26 09:14:06 [TestNG-tests-1] INFO  BaseTest - Navigated to: https://www.saucedemo.com/
+2026-02-26 09:14:07 [TestNG-tests-1] INFO  LoginTest - Username is entered: standard_user
+2026-02-26 09:14:07 [TestNG-tests-1] INFO  LoginTest - password is entered: secret_sauce
+2026-02-26 09:14:07 [TestNG-tests-1] INFO  LoginTest - login button is clicked
+2026-02-26 09:14:58 [TestNG-tests-1] INFO  BaseTest - Closing browser
+2026-02-26 09:14:58 [TestNG-tests-1] INFO  BaseTest - ===== Test Finished =====
+2026-02-26 09:15:17 [main] INFO  Utils - [TestNG] Running:
+  D:\rest-assured-framework\SauceLab-Hybrid-Framework\testng.xml
+
+2026-02-26 09:15:17 [TestNG-tests-1] INFO  BaseTest - ===== Test Started =====
+2026-02-26 09:15:17 [TestNG-tests-1] INFO  BrowserFactory - Initializing browser...
+2026-02-26 09:15:17 [TestNG-tests-1] INFO  BrowserFactory - Launching Chrome browser
+2026-02-26 09:15:17 [TestNG-tests-1] INFO  WebDriverManager - Using chromedriver 145.0.7632.117 (resolved driver for Chrome 145)
+2026-02-26 09:15:17 [TestNG-tests-1] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akshay\.cache\selenium\chromedriver\win64\145.0.7632.117\chromedriver.exe
+2026-02-26 09:15:18 [TestNG-tests-1] INFO  BrowserFactory - Browser launched successfully
+2026-02-26 09:15:19 [TestNG-tests-1] INFO  BaseTest - Navigated to: https://www.saucedemo.com/
+2026-02-26 09:15:21 [TestNG-tests-1] INFO  LoginTest - Username is entered: standard_user
+2026-02-26 09:15:21 [TestNG-tests-1] INFO  LoginTest - password is entered: secret_sauce
+2026-02-26 09:15:21 [TestNG-tests-1] INFO  LoginTest - login button is clicked
+2026-02-26 09:16:13 [TestNG-tests-1] INFO  BaseTest - Closing browser
+2026-02-26 09:16:14 [TestNG-tests-1] INFO  BaseTest - ===== Test Finished =====
+2026-02-26 09:16:23 [main] INFO  Utils - [TestNG] Running:
+  D:\rest-assured-framework\SauceLab-Hybrid-Framework\testng.xml
+
+2026-02-26 09:16:23 [TestNG-tests-1] INFO  BaseTest - ===== Test Started =====
+2026-02-26 09:16:23 [TestNG-tests-1] INFO  BrowserFactory - Initializing browser...
+2026-02-26 09:16:23 [TestNG-tests-1] INFO  BrowserFactory - Launching Chrome browser
+2026-02-26 09:16:24 [TestNG-tests-1] INFO  WebDriverManager - Using chromedriver 145.0.7632.117 (resolved driver for Chrome 145)
+2026-02-26 09:16:24 [TestNG-tests-1] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akshay\.cache\selenium\chromedriver\win64\145.0.7632.117\chromedriver.exe
+2026-02-26 09:16:25 [TestNG-tests-1] INFO  BrowserFactory - Browser launched successfully
+2026-02-26 09:16:25 [TestNG-tests-1] INFO  BaseTest - Navigated to: https://www.saucedemo.com/
+2026-02-26 09:16:27 [TestNG-tests-1] INFO  LoginTest - Username is entered: standard_user
+2026-02-26 09:16:27 [TestNG-tests-1] INFO  LoginTest - password is entered: secret_sauce
+2026-02-26 09:16:27 [TestNG-tests-1] INFO  LoginTest - login button is clicked
+2026-02-26 09:17:08 [TestNG-tests-1] INFO  BaseTest - Closing browser
+2026-02-26 09:17:08 [TestNG-tests-1] INFO  BaseTest - ===== Test Finished =====
+2026-02-26 09:33:04 [main] INFO  Utils - [TestNG] Running:
+  D:\rest-assured-framework\SauceLab-Hybrid-Framework\testng.xml
+
+2026-02-26 09:33:04 [TestNG-tests-1] INFO  BaseTest - ===== Test Started =====
+2026-02-26 09:33:04 [TestNG-tests-1] INFO  BrowserFactory - Initializing browser...
+2026-02-26 09:33:04 [TestNG-tests-1] INFO  BrowserFactory - Launching Chrome browser
+2026-02-26 09:33:05 [TestNG-tests-1] INFO  WebDriverManager - Using chromedriver 145.0.7632.117 (resolved driver for Chrome 145)
+2026-02-26 09:33:05 [TestNG-tests-1] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akshay\.cache\selenium\chromedriver\win64\145.0.7632.117\chromedriver.exe
+2026-02-26 09:33:06 [TestNG-tests-1] INFO  BrowserFactory - Browser launched successfully
+2026-02-26 09:33:06 [TestNG-tests-1] INFO  BaseTest - Navigated to: https://www.saucedemo.com/
+2026-02-26 09:33:07 [TestNG-tests-1] INFO  LoginTest - Username is entered: standard_user
+2026-02-26 09:33:07 [TestNG-tests-1] INFO  LoginTest - password is entered: secret_sauce
+2026-02-26 09:33:08 [TestNG-tests-1] INFO  LoginTest - login button is clicked
+2026-02-26 09:33:10 [TestNG-tests-1] INFO  BaseTest - Closing browser
+2026-02-26 09:33:10 [TestNG-tests-1] INFO  BaseTest - ===== Test Finished =====
+2026-02-26 09:35:22 [main] INFO  Utils - [TestNG] Running:
+  D:\rest-assured-framework\SauceLab-Hybrid-Framework\testng.xml
+
+2026-02-26 09:35:22 [TestNG-tests-1] INFO  BaseTest - ===== Test Started =====
+2026-02-26 09:35:22 [TestNG-tests-1] INFO  BrowserFactory - Initializing browser...
+2026-02-26 09:35:22 [TestNG-tests-1] INFO  BrowserFactory - Launching Chrome browser
+2026-02-26 09:35:22 [TestNG-tests-1] INFO  WebDriverManager - Using chromedriver 145.0.7632.117 (resolved driver for Chrome 145)
+2026-02-26 09:35:22 [TestNG-tests-1] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akshay\.cache\selenium\chromedriver\win64\145.0.7632.117\chromedriver.exe
+2026-02-26 09:35:23 [TestNG-tests-1] INFO  BrowserFactory - Browser launched successfully
+2026-02-26 09:35:24 [TestNG-tests-1] INFO  BaseTest - Navigated to: https://www.saucedemo.com/
+2026-02-26 09:35:25 [TestNG-tests-1] INFO  LoginTest - Username is entered: standard_user
+2026-02-26 09:35:25 [TestNG-tests-1] INFO  LoginTest - password is entered: secret_sauce
+2026-02-26 09:35:25 [TestNG-tests-1] INFO  LoginTest - login button is clicked
+2026-02-26 09:35:28 [TestNG-tests-1] INFO  BaseTest - Closing browser
+2026-02-26 09:35:28 [TestNG-tests-1] INFO  BaseTest - ===== Test Finished =====
+2026-02-26 09:45:09 [main] INFO  Utils - [TestNG] Running:
+  D:\rest-assured-framework\SauceLab-Hybrid-Framework\testng.xml
+
+2026-02-26 09:45:09 [TestNG-tests-2] INFO  BaseTest - ===== Test Started =====
+2026-02-26 09:45:09 [TestNG-tests-1] INFO  BaseTest - ===== Test Started =====
+2026-02-26 09:45:09 [TestNG-tests-1] INFO  BrowserFactory - Initializing browser...
+2026-02-26 09:45:09 [TestNG-tests-2] INFO  BrowserFactory - Initializing browser...
+2026-02-26 09:45:09 [TestNG-tests-1] INFO  BrowserFactory - Launching Chrome browser
+2026-02-26 09:45:09 [TestNG-tests-2] INFO  BrowserFactory - Launching FireFox browser
+2026-02-26 09:45:10 [TestNG-tests-1] INFO  WebDriverManager - Using chromedriver 145.0.7632.117 (resolved driver for Chrome 145)
+2026-02-26 09:45:10 [TestNG-tests-1] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akshay\.cache\selenium\chromedriver\win64\145.0.7632.117\chromedriver.exe
+2026-02-26 09:45:10 [TestNG-tests-2] INFO  WebDriverManager - Using geckodriver 0.36.0 (resolved driver for Firefox 147)
+2026-02-26 09:45:10 [TestNG-tests-2] INFO  WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\akshay\.cache\selenium\geckodriver\win64\0.36.0\geckodriver.exe
+2026-02-26 09:45:11 [TestNG-tests-1] INFO  BrowserFactory - Browser launched successfully
+2026-02-26 09:45:11 [TestNG-tests-1] INFO  BaseTest - Navigated to: https://www.saucedemo.com/
+2026-02-26 09:45:12 [TestNG-tests-1] INFO  LoginTest - Username is entered: standard_user
+2026-02-26 09:45:12 [TestNG-tests-1] INFO  LoginTest - password is entered: secret_sauce
+2026-02-26 09:45:12 [TestNG-tests-1] INFO  LoginTest - login button is clicked
+2026-02-26 09:45:14 [TestNG-tests-2] INFO  BrowserFactory - Browser launched successfully
+2026-02-26 09:45:15 [TestNG-tests-2] INFO  BaseTest - Navigated to: https://www.saucedemo.com/
+2026-02-26 09:45:15 [TestNG-tests-2] INFO  LoginTest - Username is entered: standard_user
+2026-02-26 09:45:15 [TestNG-tests-2] INFO  LoginTest - password is entered: secret_sauce
+2026-02-26 09:45:15 [TestNG-tests-2] INFO  LoginTest - login button is clicked
+2026-02-26 09:45:16 [TestNG-tests-1] INFO  BaseTest - Closing browser
+2026-02-26 09:45:16 [TestNG-tests-1] INFO  BaseTest - ===== Test Finished =====
+2026-02-26 09:45:18 [TestNG-tests-2] INFO  BaseTest - Closing browser
+2026-02-26 09:45:19 [TestNG-tests-2] INFO  BaseTest - ===== Test Finished =====
+2026-02-26 09:45:42 [main] INFO  Utils - [TestNG] Running:
+  D:\rest-assured-framework\SauceLab-Hybrid-Framework\testng.xml
+
+2026-02-26 09:45:42 [TestNG-tests-2] INFO  BaseTest - ===== Test Started =====
+2026-02-26 09:45:42 [TestNG-tests-1] INFO  BaseTest - ===== Test Started =====
+2026-02-26 09:45:42 [TestNG-tests-2] INFO  BrowserFactory - Initializing browser...
+2026-02-26 09:45:42 [TestNG-tests-1] INFO  BrowserFactory - Initializing browser...
+2026-02-26 09:45:42 [TestNG-tests-2] INFO  BrowserFactory - Launching FireFox browser
+2026-02-26 09:45:42 [TestNG-tests-1] INFO  BrowserFactory - Launching Chrome browser
+2026-02-26 09:45:43 [TestNG-tests-2] INFO  WebDriverManager - Using geckodriver 0.36.0 (resolved driver for Firefox 147)
+2026-02-26 09:45:43 [TestNG-tests-1] INFO  WebDriverManager - Using chromedriver 145.0.7632.117 (resolved driver for Chrome 145)
+2026-02-26 09:45:43 [TestNG-tests-2] INFO  WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\akshay\.cache\selenium\geckodriver\win64\0.36.0\geckodriver.exe
+2026-02-26 09:45:43 [TestNG-tests-1] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\akshay\.cache\selenium\chromedriver\win64\145.0.7632.117\chromedriver.exe
+2026-02-26 09:45:44 [TestNG-tests-2] INFO  BaseTest - Closing browser
+2026-02-26 09:45:44 [TestNG-tests-2] INFO  BaseTest - ===== Test Finished =====
+2026-02-26 09:45:44 [TestNG-tests-1] INFO  BrowserFactory - Browser launched successfully
+2026-02-26 09:45:46 [TestNG-tests-1] INFO  BaseTest - Navigated to: https://www.saucedemo.com/
+2026-02-26 09:45:47 [TestNG-tests-1] INFO  LoginTest - Username is entered: standard_user
+2026-02-26 09:45:47 [TestNG-tests-1] INFO  LoginTest - password is entered: secret_sauce
+2026-02-26 09:45:47 [TestNG-tests-1] INFO  LoginTest - login button is clicked
+2026-02-26 09:45:50 [TestNG-tests-1] INFO  BaseTest - Closing browser
+2026-02-26 09:45:51 [TestNG-tests-1] INFO  BaseTest - ===== Test Finished =====
+2026-02-26 09:46:13 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\akshay\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+

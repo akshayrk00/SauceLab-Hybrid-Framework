@@ -1,0 +1,19 @@
+username:
+  type: id
+  value: user-name
+
+password:
+  type: id
+  value: password
+
+loginButton:
+  type: id
+  value: login-button
+
+dashboard:
+  type: xpath
+  value: //div[contains(text(),'Swag')]
+
+invalidCredentialsErrorMessge:
+  type: xpath
+  value: //*[@class='error-message-container error']

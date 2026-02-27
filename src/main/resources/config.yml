@@ -1,0 +1,9 @@
+framework:
+  browser: chrome
+  baseUrl: https://www.saucedemo.com/
+  implicitWait: 10
+  headless: false
+
+timeouts:
+  pageLoad: 20
+  script: 15

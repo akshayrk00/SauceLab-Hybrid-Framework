@@ -1,0 +1,15 @@
+AddToCartButton:
+  type: xpath
+  value: //button[text()='Add to cart']
+
+TitleOfItermsAfterAddingToCart:
+  type: xpath
+  value: //*[.='Remove']//ancestor::div[@class='inventory_item_description']//a
+
+Cart_Icon:
+  type: xpath
+  value: //*[@class='shopping_cart_container']
+
+Title_of_items_in_Cart:
+  type: xpath
+  value: //*[@class='inventory_item_name']
