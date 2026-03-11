@@ -1,6 +1,7 @@
 package com.test;
 
 import browserConfig.BaseTest;
+import com.objectmanager.ObjectManager;
 import com.pages.LoginPage;
 import org.apache.logging.log4j.Logger;
 import org.testng.Assert;
@@ -12,7 +13,7 @@ import java.util.Map;
 public class LoginTest extends BaseTest {
 
 
-
+    LoginPage loginPage;
 
     @Test
     public void validateLoginFunctionalityWithValidCredentials() throws InterruptedException {
@@ -25,7 +26,7 @@ public class LoginTest extends BaseTest {
         String username = data.get("username");
         String password = data.get("password");
 
-        LoginPage loginPage = new LoginPage();
+        loginPage = ObjectManager.getLoginPage();
         loginPage.login(username, password);
         Thread.sleep(2000);
         Assert.assertTrue(loginPage.isLogoDisplayed());
@@ -45,7 +46,7 @@ public class LoginTest extends BaseTest {
 
         System.out.println(errorMessage);
 
-        LoginPage loginPage = new LoginPage();
+        loginPage = ObjectManager.getLoginPage();
         loginPage.login(username, password);
         Assert.assertEquals(errorMessage, loginPage.getErrorMessage());
 
@@ -62,7 +63,7 @@ public class LoginTest extends BaseTest {
         String errorMessage = data.get("errormessage");
 
 
-        LoginPage loginPage = new LoginPage();
+        loginPage = ObjectManager.getLoginPage();
         loginPage.login(username, password);
         Assert.assertEquals(errorMessage, loginPage.getErrorMessage());
     }
@@ -77,7 +78,7 @@ public class LoginTest extends BaseTest {
         String errorMessage = data.get("errormessage");
 
 
-        LoginPage loginPage = new LoginPage();
+        loginPage = ObjectManager.getLoginPage();
         loginPage.login(username, password);
         Assert.assertEquals(errorMessage, loginPage.getErrorMessage());
     }
