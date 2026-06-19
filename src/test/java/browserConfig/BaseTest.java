@@ -7,9 +7,7 @@ import base.DriverManager;
 import config.ConfigLoader;
 
 import org.apache.logging.log4j.Logger;
-import org.testng.annotations.AfterMethod;
-import org.testng.annotations.BeforeMethod;
-import org.testng.annotations.Parameters;
+import org.testng.annotations.*;
 import utils.ExcelUtils;
 import utils.Log;
 
@@ -22,7 +20,7 @@ public class BaseTest {
     // Thread safe test data storage
     protected static ThreadLocal<Map<String, String>> testData = new ThreadLocal<>();
 
-    @BeforeMethod(alwaysRun = true)
+    @BeforeTest(alwaysRun = true)
     @Parameters("browser")
     public void setup(String browser, Method method) {
 
@@ -58,7 +56,7 @@ public class BaseTest {
         testData.set(data);
     }
 
-    @AfterMethod(alwaysRun = true)
+    @AfterTest(alwaysRun = true)
     public void tearDown() {
 
         log.info("Closing browser");
