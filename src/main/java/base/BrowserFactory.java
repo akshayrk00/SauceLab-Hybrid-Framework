@@ -60,6 +60,12 @@ public class BrowserFactory {
                 prefs.put("safebrowsing.enabled", false);
 
                 chromeOptions.setExperimentalOption("prefs", prefs);
+                chromeOptions.addArguments("--headless");
+                chromeOptions.addArguments("--no-sandbox");
+                chromeOptions.addArguments("--disable-dev-shm-usage");
+                chromeOptions.addArguments("--disable-gpu");
+                chromeOptions.addArguments("--window-size=1920,1080");
+
                 driver = new ChromeDriver(chromeOptions);
                 break;
 

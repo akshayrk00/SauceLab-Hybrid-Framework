@@ -38,6 +38,19 @@ jobs:
       - name: Build Project
         run: mvn clean compile
 
+
+      - name: Install Chrome Dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y xvfb libxss1 libappindicator1 libindicator7
+
+      - name: Execute TestNG Suite
+        run: |
+          export DISPLAY=:99
+          Xvfb :99 -screen 0 1024x768x24 > /dev/null 2>&1 &
+          mvn test -DsuiteXmlFile=testng.xml
+          
+
       - name: Execute TestNG Suite
         run: mvn test -DsuiteXmlFile=testng.xml
 
