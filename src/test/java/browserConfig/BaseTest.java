@@ -24,7 +24,7 @@ public class BaseTest {
 
     @BeforeMethod(alwaysRun = true)
     @Parameters("browser")
-    public void setup( Method method, String browser) {
+    public void setup(String browser, Method method) {
 
         log.info("===== Test Started =====");
 
