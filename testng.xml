@@ -3,20 +3,17 @@
 
 <suite name="All Test Suite" parallel="tests" thread-count="1">
 
-    <!-- CHROME -->
     <listeners>
         <listener class-name="listeners.ListnerCommand"/>
     </listeners>
+
     <test name="Chrome_Test">
         <parameter name="browser" value="chrome"/>
+
         <classes>
             <class name="com.test.LoginTest"/>
-            <class name="com.test.AddToCartTest">
-
-            </class>
+            <class name="com.test.AddToCartTest"/>
         </classes>
     </test>
-
-
 
 </suite>
