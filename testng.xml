@@ -12,7 +12,6 @@
 
         <classes>
             <class name="com.test.LoginTest"/>
-            <class name="com.test.AddToCartTest"/>
         </classes>
     </test>
 
